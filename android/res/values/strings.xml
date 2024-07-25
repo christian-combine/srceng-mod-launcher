@@ -3,7 +3,7 @@
     <string name="srceng_launcher_command_args">Command-line arguments</string>
 
     <string name="srceng_launcher_about_title">About</string>
-    <string name="srceng_launcher_about_text">Thanks to nillerusr and jusic for port\nroot_GetDLie404 for clientmod\nvalve for source engine\n\nNot for commercial use!\n Clientmod Android official channel: @root_GetDLie404_chan \n\nDonate to nillerusr: https://boosty.to/nillerusr\nETH: 0x5d0D561146Ed758D266E59B56e85Af0b03ABAF46\nBTC(Bitcoin): bc1qnjq92jj9uqjtafcx2zvnwd48q89hgtd6w8a6na\nXMR(Monero): 48iXvX61MU24m5VGc77rXQYKmoww3dZh6hn7mEwDaLVTfGhyBKq2teoPpeBq6xvqj4itsGh6EzNTzBty6ZDDevApCFNpsJg</string>
+    <string name="srceng_launcher_about_text"></string>
 
     <string name="srceng_launcher_launch">Launch</string>
     <string name="srceng_launcher_ok">OK</string>

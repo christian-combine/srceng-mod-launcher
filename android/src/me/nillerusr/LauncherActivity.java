@@ -1,6 +1,6 @@
 package me.nillerusr;
 
-import com.valvesoftware.source.clientmod.R;
+import com.valvesoftware.source.MOD_REPLACE_ME.R;
 
 import android.app.Activity;
 import android.app.AlertDialog;
@@ -37,7 +37,7 @@ import me.nillerusr.UpdateService;
 import me.nillerusr.UpdateSystem;
 
 public class LauncherActivity extends Activity {
-    public static String MOD_NAME = "cm";
+    public static String MOD_NAME = "MOD_REPLACE_ME";
     public static String PKG_NAME;
 
     static EditText cmdArgs;
