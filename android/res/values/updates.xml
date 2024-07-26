@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="mod_name">APPNAME</string>
+    <string name="mod_name">APP_NAME</string>
     <string name="current_commit"></string>
     <string name="update_url"></string>
 </resources>
