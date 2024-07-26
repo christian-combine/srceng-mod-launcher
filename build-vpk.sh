@@ -4,7 +4,7 @@ if [ -e "android/assets/extras_dir.vpk" ]; then
 	rm android/assets/extras_dir.vpk
 fi
 
-vpk_linux32 -c vpk/ android/assets/extras_dir.vpk
+vpk -c vpk/ android/assets/extras_dir.vpk
 
 export VPKSHA=$(sha1sum android/assets/extras_dir.vpk | cut -d ' ' -f 1)
 
