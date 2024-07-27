@@ -8,4 +8,4 @@ sed -i -e "s|MOD_REPLACE_ME|$PACKAGE|g" ../android/src/me/nillerusr/ExtractAsset
 sed -i -e "s|MOD_REPLACE_ME|$PACKAGE|g" ../android/src/me/nillerusr/UpdateService.java
 sed -i -e "s|MOD_REPLACE_ME|$PACKAGE|g" ../android/src/me/nillerusr/UpdateSystem.java
 sed -i -e "s|MOD_REPLACE_ME|$PACKAGE|g" ../android/AndroidManifest.xml
-sed -i -e "s|APP_NAME|$APPNAME|g" ../android/res/values/updates.xml
+sed -i -e "s|APP_NAME|$APP_NAME|g" ../android/res/values/updates.xml
